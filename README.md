@@ -20,4 +20,9 @@ The project helps to analyze the NBA scoreboard and derive insights from it. The
  
 ![ESPNA_NBA](https://user-images.githubusercontent.com/89546195/211725243-58e28822-b4e0-4ba7-8c3b-7109341f3f85.jpg)
 
+## PostgresSQL Database / Datatable
+
+![PostgresSQL Database](https://user-images.githubusercontent.com/89546195/211727891-99b22383-de42-40f2-a40d-375752025088.jpg)
+
+
 
