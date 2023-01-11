@@ -15,9 +15,10 @@ The goal of this project is to design a data pipeline using Python to analyze th
 The project helps to analyze the NBA scoreboard and derive insights from it. The datapipeline & ETL process plays a main role in this project. 
 
 ## Web Scraping & ETL
+#### Website page with data
+![ESPN_NBA](https://user-images.githubusercontent.com/89546195/211725176-cf1619f4-f50d-467c-acc0-3ab8232040f2.jpg)
 
-![ESPN_NBA](https://user-images.githubusercontent.com/89546195/211725176-cf1619f4-f50d-467c-acc0-3ab8232040f2.jpg) 
- 
+#### Data after ETL 
 ![ESPNA_NBA](https://user-images.githubusercontent.com/89546195/211725243-58e28822-b4e0-4ba7-8c3b-7109341f3f85.jpg)
 
 ## PostgresSQL Database / Datatable
