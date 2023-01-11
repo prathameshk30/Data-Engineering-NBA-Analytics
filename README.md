@@ -1,4 +1,5 @@
-# Data-Engineering- NBA Scoreboard Analytics (Web scraping | ETL | PostgreSQL | Power BI)
+# Data-Engineering- NBA Scoreboard Analytics 
+## (Web scraping | ETL | PostgreSQL | Power BI)
 
 ## Project Architecture
 
