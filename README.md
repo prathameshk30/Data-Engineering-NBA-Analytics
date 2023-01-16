@@ -25,5 +25,9 @@ The project helps to analyze the NBA scoreboard and derive insights from it. The
 
 ![PostgresSQL Database](https://user-images.githubusercontent.com/89546195/211727891-99b22383-de42-40f2-a40d-375752025088.jpg)
 
+## Power BI Dashboard
+
+<img width="1052" alt="image" src="https://user-images.githubusercontent.com/89546195/212763487-e443f4b9-4a24-43a3-b871-eac66fc26e8f.png">
+
 
 
